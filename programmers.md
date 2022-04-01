@@ -3,7 +3,7 @@
 
 ## 0\. 출처
 
--   유형 : SQL, (lv 1)
+-   유형 : SQL, SELECT (lv 1)
 -   링크 : ['문제이름'](https://www.acmicpc.net/problem/[문제번호])
 
 ## 1\. 기록
@@ -19,7 +19,7 @@ sample
 ```
 ### (2) 코드
 
-```py
+```SQL
 sample
 ```
 

@@ -19,7 +19,7 @@ sample
 ```
 ### (2) 코드
 
-```SQL
+```py
 sample
 ```
 

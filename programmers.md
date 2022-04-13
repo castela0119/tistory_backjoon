@@ -1,9 +1,9 @@
-# [프로그래머스] [문제이름] (SQL)
-# [문제이름] (SQL)
+# [프로그래머스] [문제이름] (Python)
+# [문제이름] (Python)
 
 ## 0\. 출처
 
--   유형 : SQL, SELECT (lv 1)
+-   유형 : 해시 (lv 1)
 -   링크 : ['문제이름'](https://www.acmicpc.net/problem/[문제번호])
 
 ## 1\. 기록
